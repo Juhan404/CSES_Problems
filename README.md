@@ -1,2 +1,2 @@
 # CSES_Problems
-Just my solution for CSES Problems
+Just my solutions for CSES Problems
